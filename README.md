@@ -1,1 +1,1 @@
-https://github.com/Dignot/ono-tebe-nado
+https://github.com/Dignot/ono-tebe-nado-fd
