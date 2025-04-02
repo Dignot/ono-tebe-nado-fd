@@ -3,10 +3,12 @@
   text-underline-position: under;
 }
 
-.nav__list_item_link_noActive {
+.nav__list_item_link_active {
   text-decoration: none;
 }
-
+.adress {
+  font-style: normal;
+}
 /* header start */
 .header {
   display: flex;
@@ -197,7 +199,7 @@
   padding-left: 70px;
   margin-bottom: 179px;
 }
-.about_leftBlock-background {
+.about_logo-background {
   width: 240px;
   height: 240px;
   background-color: black;
@@ -206,7 +208,7 @@
   align-items: center;
   justify-content: center;
 }
-.about_leftBlock-img {
+.about_logo-img {
   width: 148px;
   height: 114px;
 }
